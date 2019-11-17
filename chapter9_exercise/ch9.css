@@ -22,21 +22,21 @@
 	width: 280px;
 	height: 150px;
 	background-image: url(img/flow01.png);
-	background-position: center;
+	background-position: bottom;
 	background-size: cover;
 }
 .img-box2{
 	width: 280px;
 	height: 150px;
 	background-image: url(img/flow02.png);
-	background-position: center;
+	background-position: bottom;
 	background-size: cover;
 }
 .img-box3{
 	width: 280px;
 	height: 150px;
 	background-image: url(img/flow03.png);
-	background-position: center;
+	background-position: bottom;
 	background-size: cover;
 }
 .step-tag{
