@@ -55,9 +55,9 @@
 		width: 90%;
 	}
 	.main-content{
-		width: 90%;
+		width: auto;
 		float: none;
-		margin: 0 auto;
+		margin: 0;
 	}
 	.main-content{
 		margin-bottom: 20px;
@@ -68,7 +68,7 @@
 	.img-box1,
 	.img-box2,
 	.img-box3{
-		width: 90%;
+		/*width: 90%;*/
 		margin: 0 auto;
 	}
 }
