@@ -68,6 +68,7 @@
 	.img-box1,
 	.img-box2,
 	.img-box3{
+		width: 100%;
 		margin: 0 auto;
 	}
 }
